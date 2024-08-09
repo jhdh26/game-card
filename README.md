@@ -16,10 +16,9 @@ O projeto foi desenvolvido no intuito de entender conceitos basico e aprender a 
 
 **Proximas atualizações do projeto:**
 
-Adicionar um header;
 Estilização em Tailwind CSS;
 Integração com SQL;
-Funções para deletar/editar cards;
+Funções para deletar/editar cards;  
 
 <img src="/src/img/TelaInicial.png" alt="Tela inicial do projeto">
 <img src="/src/img/Cards1.png" alt="Cards adicionados">
