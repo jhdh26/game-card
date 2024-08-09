@@ -20,6 +20,7 @@ Estilização em Tailwind CSS;
 Integração com SQL;
 Funções para deletar/editar cards;  
 
+
 <img src="/src/img/TelaInicial.png" alt="Tela inicial do projeto">
 <img src="/src/img/Cards1.png" alt="Cards adicionados">
 <img src="/src/img/Cards2.png" alt="Cards adicionados">
