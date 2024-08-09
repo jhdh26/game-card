@@ -21,9 +21,9 @@ Estilização em Tailwind CSS;
 Integração com SQL;
 Funções para deletar/editar cards;
 
-![Tela-de-Registro](https://prnt.sc/KCZ4prYizJ36)
-![Exemplificação-1](https://prnt.sc/MrmOPCkpwR4k)
-![Exemplificação-2](https://prnt.sc/-QbSyMZvbspw)
+<img src="https://ibb.co/tXFMBCq" alt="Tela inicial do projeto">
+<img src="https://ibb.co/MnRdFV9" alt="Cards adicionados">
+<img src="https://ibb.co/09VLdn1" alt="Cards adicionados">
 
 
 
