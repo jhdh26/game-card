@@ -1,0 +1,24 @@
+.body {
+	background: #5b1f58;
+	padding: 0;
+	margin: 0;
+  overflow: hidden;
+}
+
+
+
+.text h1 {
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-size: 76px;
+  font-weight: 300;
+	text-transform: uppercase;
+}
+
+.text {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
